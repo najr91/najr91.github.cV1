@@ -1,0 +1,47 @@
+[33mcommit 588e26add3cb520684ee8436d1618776b2499f3e[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;32meducacion[m[33m)[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Tue Apr 18 14:54:01 2023 -0300
+
+    se creo las card de educacicion con sus margenes y el scroll del nav
+
+[33mcommit 25e5eec475257520d0397f586a0720b89f19b02a[m[33m ([m[1;32mexperienciaLaboral[m[33m)[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Tue Apr 18 13:40:40 2023 -0300
+
+    se agregaron mas card para experiencia laborales y se vinculo el boton del nav a la seccion de experincia laboral
+
+[33mcommit 94bb158f46fea204329c75f9e4c73531ff8e81e7[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Tue Apr 18 13:19:14 2023 -0300
+
+    creamos una card con la informacion de experiencia laboral
+
+[33mcommit bf6fad296f1623b83e627bf799274fc8abdf6055[m[33m ([m[1;32msobreMi[m[33m)[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Tue Apr 18 12:20:37 2023 -0300
+
+    agregue el link de la seccion sobre mi al navbar
+
+[33mcommit 3ff64c0f60b09fc467d9fcfc5c9234577a7da8fd[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Tue Apr 18 12:12:35 2023 -0300
+
+    se agrego informacion personal y datos de mi historia sobre mi
+
+[33mcommit 58ba08326a3f102e9c7d55ce561e9d2c64ed7749[m[33m ([m[1;32mmaster[m[33m, [m[1;32mencabezado[m[33m)[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Sat Apr 15 17:07:38 2023 -0300
+
+    se agrego una foto de perfil y datos al encabezado
+
+[33mcommit 18be19ab936ac8cab1864843e6e10b233162ea10[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Wed Apr 12 11:40:46 2023 -0300
+
+    se agrego el navbar y el footer
+
+[33mcommit 277db8b353ac5c65c306d4b07391fdcdfa494612[m
+Author: nelson juarez rivas <najr91@gmail.com>
+Date:   Wed Apr 12 10:55:14 2023 -0300
+
+    se creo la estructura basica del proyecto
