@@ -12,3 +12,6 @@ html{
 main{
     margin-top: 55px;
 }
+a{
+    text-decoration: none
+}
